@@ -1,0 +1,7 @@
+D:\Projects\Temp\NumPuzzle\bin\Debug\NumPuzzle.exe.config
+D:\Projects\Temp\NumPuzzle\bin\Debug\NumPuzzle.exe
+D:\Projects\Temp\NumPuzzle\bin\Debug\NumPuzzle.pdb
+D:\Projects\Temp\NumPuzzle\obj\Debug\NumPuzzle.csproj.AssemblyReference.cache
+D:\Projects\Temp\NumPuzzle\obj\Debug\NumPuzzle.csproj.CoreCompileInputs.cache
+D:\Projects\Temp\NumPuzzle\obj\Debug\NumPuzzle.exe
+D:\Projects\Temp\NumPuzzle\obj\Debug\NumPuzzle.pdb
